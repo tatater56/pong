@@ -1,7 +1,9 @@
 # pong
-a simple pong clone for Desktop + Nintendo Switch (homebrew), Lua + Love2D framework
+A simple pong clone for Desktop + Nintendo Switch (homebrew), Lua + Love2D framework
+
 
 desktop - love2d/love 11.3
+
 switch - retronx-team/love-nx 11.2-nx2
 
 screenshots:
